@@ -25,7 +25,7 @@ h1{
   font: bold;
   color: white;
   padding-top: 40px;
-  padding-left: 120px;
+  padding-left: 150px;
   font-family: Times New Roman;
   font-size: 100px;
 }
@@ -39,7 +39,9 @@ h1{
   
 }
 .two{
-background-image: url('blackbg.png');
+  height: 100%;
+  width:100%
+  background-image: url('blackbg.png');
 }
 .img-two{
   margin: 50px;
