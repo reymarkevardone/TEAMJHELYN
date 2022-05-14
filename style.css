@@ -8,7 +8,7 @@ body{
   
 }
 .all{
-  height: 900px;
+  height: 920px;
   width: 100%;
   background-image: url('bluebg.png');
   background-repeat: no-repeat;
@@ -39,8 +39,7 @@ h1{
   
 }
 .two{
-  height: 100%;
-  width:100%;
+  
   background-image: url('blackbg.png');
 }
 .img-two{
